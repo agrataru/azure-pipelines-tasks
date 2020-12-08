@@ -18,7 +18,7 @@
     "demands": [],
     "version": {
         "Major": 0,
-        "Minor": 175,
+        "Minor": 176,
         "Patch": 2
     },
     "minimumAgentVersion": "1.102.0",
@@ -285,7 +285,7 @@
         }
     ],
     "execution": {
-        "Node": {
+        "Node10": {
             "target": "azureappservicemanage.js"
         }
     },

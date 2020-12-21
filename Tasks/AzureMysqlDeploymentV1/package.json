@@ -22,6 +22,7 @@
     "@types/q": "1.0.7",
     "azure-pipelines-task-lib": "3.0.6-preview.0",
     "azure-pipelines-tasks-azure-arm-rest-v2": "1.0.4",
+    "azure-pipelines-tasks-webdeployment-common-v2": "file:../../../../common-update/azure-pipelines-tasks/common-npm-packages/webdeployment-common-v2/_build/azure-pipelines-tasks-webdeployment-common-v2-3.0.0-preview.0.tgz",
     "compress-commons": "1.1.0",
     "crc32-stream": "1.0.0",
     "moment": "2.21.0",
@@ -29,7 +30,6 @@
     "q": "1.4.1",
     "semver": "5.4.1",
     "tar-stream": "1.5.2",
-    "webdeployment-common-v2": "file:../../_build/Tasks/Common/webdeployment-common-v2-2.0.0.tgz",
     "winreg": "1.2.2",
     "zip-stream": "1.1.0"
   },

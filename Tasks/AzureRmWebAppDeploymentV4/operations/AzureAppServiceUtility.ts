@@ -147,6 +147,7 @@ export class AzureAppServiceUtility {
     }   
 
     public async updateConfigurationSettings(properties: any) : Promise<void> {
+        tl.debug("##################################");
         for(var property in properties) {
             if(!!properties[property] && properties[property].value !== undefined) {
                 properties[property] = properties[property].value;

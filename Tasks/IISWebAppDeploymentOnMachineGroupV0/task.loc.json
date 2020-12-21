@@ -133,7 +133,7 @@
   ],
   "instanceNameFormat": "ms-resource:loc.instanceNameFormat",
   "execution": {
-    "node": {
+    "node10": {
       "target": "deployiiswebapp.js"
     }
   },
